@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on from avi import musings</title>
+    <link>http://lior.org/posts/</link>
+    <description>Recent content in Posts on from avi import musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 21:16:03 -0400</lastBuildDate>
+    
+	<atom:link href="http://lior.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In the Beginning</title>
+      <link>http://lior.org/posts/in-the-beginning/</link>
+      <pubDate>Mon, 20 May 2019 21:16:03 -0400</pubDate>
+      
+      <guid>http://lior.org/posts/in-the-beginning/</guid>
+      <description>Beresheet - In the Beginning - בְּרֵאשִׁית
+As the Book of Genesis starts so I start my Blog. The intent behind the title is non-pretentious, but rather a hommage to my people and to Israel&amp;rsquo;s ill-fated Lunar Lander Beresheet. Although, if the blog emits more than a few entries, for me it will be a feat of Biblical proportions.
+The main purpose is to capture my thoughts about stuff that matters to me and other musings.</description>
+    </item>
+    
+  </channel>
+</rss>

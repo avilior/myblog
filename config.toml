@@ -1,0 +1,4 @@
+baseURL = "http://lior.org/"
+languageCode = "en-us"
+title = "from avi import musings"
+theme = "ananke"
