@@ -11,11 +11,11 @@ My setup is as follows:
 * My site repo is on [GitHub](https://github.com/avilior/myblog)
 * Locally i have clone on my mac. As per the instructions [here]((https://gohugo.io/hosting-and-deployment/hosting-on-github/)), I embed my avilior.github.io site as the public folder where hugo generates the site.  I have a deploy.sh script that I use to deploy the site.
 
-**Site Generator Choice**
+# Site Generator Choice
 
 [Jekyll](ttps://jekyllrb.com) the grandfather of static site generator is tightly integrated with GitHub Pages but I started out with Hugo and choose to stay with it.
 
-**WorkFlow **
+# WorkFlow
 
 * I use [typora](https://typora.io) as my MarkDown editor to write the blogs.
 
@@ -31,14 +31,13 @@ My setup is as follows:
 
 * To deploy it - which builds the site commits the public directory to github and also commits the site to github
 
-* ```
+  ```
   cd ~/MyBlog/
   ./deploy.sh
   ```
 
-  
 
-** Deploy Script **
+# Deploy Script
 
 The following is the deploy script i got from the web with slight modifications:
 
@@ -80,13 +79,10 @@ git push origin master
 
 ```
 
-
-
-## References
+# References
 
 - [Host on GitHub | Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 - [Working with submodules - The GitHub Blog](https://github.blog/2016-02-01-working-with-submodules/)
 - [Working with GitHub Pages - GitHub Help](https://help.github.com/en/categories/working-with-github-pages)
 - [About GitHub Pages and Jekyll - GitHub Help](https://help.github.com/en/articles/about-github-pages-and-jekyll)
 
->
