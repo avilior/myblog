@@ -4,8 +4,6 @@ date: 2019-10-11T20:24:03-04:00
 draft: false
 ---
 
-**Hosting Hugo Site on GitHub Pages**
-
 I am hosting my [Hugo](https://github.com/gohugoio) generate static [site](https://avilior.github.io/) on GitHub Pages.
 
 My setup is as follows:
