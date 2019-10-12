@@ -1,5 +1,5 @@
 ---
-title: "In the Beginning"
+title: "In the Beginning - בְּרֵאשִׁית"
 date: 2019-05-20T21:16:03-04:00
 draft: false
 ---
